@@ -1,6 +1,6 @@
 Java Neuroshare Library.
 
-With using this lib, you can create Neuroshare File.
+* Using this lib, you can both read and write Neuroshare Files in Java.
 
 
 * ATR DNI All rights reserved
