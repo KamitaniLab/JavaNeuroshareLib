@@ -1,4 +1,4 @@
-Java Neuroshare Library.
+Java Neuroshare Library used for http://brainliner.jp
 
 * Using this lib, you can both read and write Neuroshare Files in Java.
 
