@@ -6,3 +6,5 @@ Java Neuroshare Library.
 * ATR DNI All rights reserved
 * Site: www.brainliner.jp
 * Contact : brainliner-admin@atr.jp
+* 
+* Statistics about this library can be viewed at https://www.ohloh.net/p/JavaNeuroshareLib
