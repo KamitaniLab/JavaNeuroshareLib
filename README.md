@@ -1,5 +1,7 @@
 Java Neuroshare Library used for http://brainliner.jp
 
+Examples of use are located at https://github.com/ATR-DNI/JavaNeuroshareLib/tree/master/src/jp/atr/dni/api/examples
+
 * Using this lib, you can both read and write Neuroshare Files in Java.
 
 
