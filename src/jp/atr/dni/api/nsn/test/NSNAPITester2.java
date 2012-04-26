@@ -8,14 +8,12 @@
 package jp.atr.dni.api.nsn.test;
 
 import java.io.IOException;
-import java.util.List;
 
 import jp.atr.dni.api.nsn.NSNFile;
 import jp.atr.dni.api.nsn.channels.NSNAnalogChannel;
 import jp.atr.dni.api.nsn.channels.NSNChannel;
 import jp.atr.dni.api.nsn.channels.NSNInfoFileChannel;
 import jp.atr.dni.api.nsn.data.NSNAnalogData;
-import jp.atr.dni.api.nsn.data.NSNChannelInfo;
 import jp.atr.dni.api.nsn.enums.NSNChannelType;
 import jp.atr.dni.api.nsn.header.NSNFileHeader;
 import jp.atr.dni.api.nsn.reader.NSNReader;
